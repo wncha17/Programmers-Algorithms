@@ -40,7 +40,7 @@
 <br>
 
 ## 📝 [Hash] 폰켓몬 (Lv. 1)
-> **문제 링크:** [https://school.programmers.co.kr/learn/courses/30/lessons/42577]
+> **문제 링크:** [https://school.programmers.co.kr/learn/courses/30/lessons/1845]
 
 ### 1. 🔍 Key Signal (문제의 단서)
 - **키워드:** "N/2마리 선택", "가장 많은 종류의 폰켓몬", "중복된 번호는 같은 종류"
